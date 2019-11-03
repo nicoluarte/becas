@@ -1,0 +1,29 @@
+* Requisitos de postulación
+** TODO Grado académico: licensiatura o título profesional
+** TODO Acreditar excelencia académica
+*** TODO Notas 5.0 o superior en licensiatura
+*** TODO Encontrarse dentro del 30% superior del ranking de egreso}
+**** Certificado de ranking de egreso de pregrado
+- Se exprese explicitamente la posición de egreso o titulación emitido por
+       la institución y el número total de estudiantes de su generación de
+       egreso
+- Debe hacer referencia clara al total de alumnos de la generación de egreso o
+  titulación
+- No se aceptarán rankings que hagan mención al número total de ingresado al
+  pregrado
+- Debe corresponder al mismo título profesional o grado académico adjunto en la
+  postulación
+- La certificación del documento es obligatoria
+** TODO Carta de aceptación al doctorado, puede ser formato CONICYT
+** TODO Llenar todos los documentos del sistema en línea
+** Formulario de postulación
+** Curriculum vitae
+** Copia cédulo de identidad
+** Copia del grado académico de licenciado o título profesional
+** Certificado de concentración de notas de pregrado
+** Certificado de ranking de egreso de pregrado
+** Certificado que incluya el promedio final
+** Carta del de aceptación del doctorado
+** Dos cartas de recomendación confidencial
+** Certificado de veracidad de la información presentada en la postulación
+
